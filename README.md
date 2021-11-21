@@ -1,5 +1,7 @@
 # vaccine_progress_app
 
+![](images/thumbnail.png)
+
 # Project Summary
 * Created an interactive Shiny web application in R that reads in a global vaccination dataset and visualizes vaccination progress between up to eight countries at a time.
 * Built a simple UI with interactive inputs, allowing users to search for an select countries and dependent variables.
