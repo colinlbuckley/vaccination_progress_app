@@ -1,4 +1,4 @@
-# vaccine_progress_app
+# vaccination_progress_app
 
 ![](images/thumbnail.png)
 
