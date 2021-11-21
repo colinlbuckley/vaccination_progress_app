@@ -8,4 +8,4 @@
 * Coded a reactive ggplot2 visualization that compares time series data across countries
 * Adapted an R script to pull regularly updated vaccine data from Kaggle.com.
 * Performed simple data cleaning and manipulation with dplyr.
-* Hosted the app on shinyapps.io
+* Hosted the app on shinyapps.io [here.](https://colinlbuckley.shinyapps.io/vaccine_progress_app/)
